@@ -6,4 +6,4 @@ def friends
  end
 end
 
-friends ()
+friends 
