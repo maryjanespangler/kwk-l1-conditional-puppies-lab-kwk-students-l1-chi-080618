@@ -1,0 +1,6 @@
+def friends
+
+
+
+
+end
